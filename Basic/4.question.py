@@ -10,3 +10,11 @@ for x in range(0, len(Giver_string)):
         container = container +Giver_string[x]
 print(container)
 
+# METHOD 2 (REPLACE METHOD)
+container2 = Giver_string.replace(Giver_string[:5], '', -1)
+print(container2)
+
+
+# METHOD 3 (STRING SLICING )
+Container3 = Giver_string[4:]
+print(Container3)
