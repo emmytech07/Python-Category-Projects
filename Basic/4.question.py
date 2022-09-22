@@ -18,4 +18,5 @@ print(container2)
 # METHOD 3 (STRING SLICING )
 Container3 = Giver_string[4:]
 print(Container3)
+print(Container3)
 

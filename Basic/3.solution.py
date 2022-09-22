@@ -8,3 +8,4 @@ def print_even_index(str):
 
 string = "Computer Study"
 print_even_index(string)
+print_even_index(string)
